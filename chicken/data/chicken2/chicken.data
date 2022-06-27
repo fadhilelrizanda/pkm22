@@ -1,5 +1,5 @@
 classes = 2
 train = chicken/data/chicken2/training.txt
-valid = chicken/data/chicken2/testing.txt
+valid = chicken/data/chicken2/valid.txt
 names = chicken/data/chicken2/chicken.names
 backup = backup

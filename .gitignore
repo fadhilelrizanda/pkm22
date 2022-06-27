@@ -9,7 +9,7 @@
 # *.dll
 # *.lib
 # *.dylib
-*.zip
+# *.zip
 # mnist/
 # # data/
 # caffe/
